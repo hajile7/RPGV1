@@ -45,19 +45,6 @@ namespace RPG_V1._0
 
         //methods
         //level up
-        public void LevelUp(Rogue user) //since level scaling is going to be different, each class will have their own lvl method
-        {
-            user.level++;
-            Console.WriteLine($"Congratulations, you are now level {user.level}! Your stats have increased:\nHealth: {user.health} + 5 = {user.health + 5}\n" +
-                $"Attack: {user.attack} + 5 = {user.attack + 5}\nSpeed: {user.speed} + 2 = {user.speed + 2}\nBlock: {user.block} + 5 = {user.block + 1}" +
-                $"Cunning: {user.block} + 5 = {user.block + 1}");
-            user.health += 5;
-            user.attack += 5;
-            user.speed += 2;
-            user.block += 1;
-            user.cunning += 1;
-        }
-
         //attack
         public void DefaultAttack(Rogue user, Enemy enemy)
         {
