@@ -1,0 +1,14 @@
+C:\Users\elire\source\repos\My stuff\RPG V1.0\RPG V1.0\bin\Debug\net8.0\RPG V1.0.exe
+C:\Users\elire\source\repos\My stuff\RPG V1.0\RPG V1.0\bin\Debug\net8.0\RPG V1.0.deps.json
+C:\Users\elire\source\repos\My stuff\RPG V1.0\RPG V1.0\bin\Debug\net8.0\RPG V1.0.runtimeconfig.json
+C:\Users\elire\source\repos\My stuff\RPG V1.0\RPG V1.0\bin\Debug\net8.0\RPG V1.0.dll
+C:\Users\elire\source\repos\My stuff\RPG V1.0\RPG V1.0\bin\Debug\net8.0\RPG V1.0.pdb
+C:\Users\elire\source\repos\My stuff\RPG V1.0\RPG V1.0\obj\Debug\net8.0\RPG V1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elire\source\repos\My stuff\RPG V1.0\RPG V1.0\obj\Debug\net8.0\RPG V1.0.AssemblyInfoInputs.cache
+C:\Users\elire\source\repos\My stuff\RPG V1.0\RPG V1.0\obj\Debug\net8.0\RPG V1.0.AssemblyInfo.cs
+C:\Users\elire\source\repos\My stuff\RPG V1.0\RPG V1.0\obj\Debug\net8.0\RPG V1.0.csproj.CoreCompileInputs.cache
+C:\Users\elire\source\repos\My stuff\RPG V1.0\RPG V1.0\obj\Debug\net8.0\RPG V1.0.dll
+C:\Users\elire\source\repos\My stuff\RPG V1.0\RPG V1.0\obj\Debug\net8.0\refint\RPG V1.0.dll
+C:\Users\elire\source\repos\My stuff\RPG V1.0\RPG V1.0\obj\Debug\net8.0\RPG V1.0.pdb
+C:\Users\elire\source\repos\My stuff\RPG V1.0\RPG V1.0\obj\Debug\net8.0\RPG V1.0.genruntimeconfig.cache
+C:\Users\elire\source\repos\My stuff\RPG V1.0\RPG V1.0\obj\Debug\net8.0\ref\RPG V1.0.dll
