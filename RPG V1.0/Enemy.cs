@@ -8,14 +8,13 @@ namespace RPG_V1._0
 {
     internal class Enemy : Character
     {
-        //Properties
-        public int gold { get; set; }
+        //Property
+        public Attacks attack = new Attacks("Attack", 1 , 0, 0);
 
         //Constructor
-        public Enemy(string _name, int _maxHealth, int _health, int _level, int _attack, double _crit, int _stamina, int _speed, int _block, int _gold)
-           : base(_name, _maxHealth, _health, _level, _attack, _crit, _stamina, _speed, _block) 
+        public Enemy(string _name, int _maxHealth, int _health, int _level, int _attack, double _crit, int _resource, int _speed, int _block, int _gold, bool _isDead)
+           : base(_name, _maxHealth, _health, _level, _attack, _crit, _resource, _speed, _block, _gold, _isDead) 
         {
-            gold = _gold;
         }
 
         //Methods
@@ -34,7 +33,7 @@ namespace RPG_V1._0
             int baseHealth = 10;
             int baseDamage = 2;
             double baseCrit = 0;
-            int baseStamina = 10;
+            int baseResource = 10;
             int baseSpeed = 3;
             int baseBlock = 0;
             int baseDrop = 5;
@@ -49,7 +48,7 @@ namespace RPG_V1._0
             int damage = (int)Math.Round((baseDamage + (-Math.Pow(((level - 100) / 14.14213562373095), 2) + 50)));
 
             //TBD
-            int stamina = baseStamina;
+            int resource = baseResource;
 
             int speed = baseSpeed;
 
@@ -69,7 +68,7 @@ namespace RPG_V1._0
 
 
             //Create our enemy object
-            Enemy enemy = new Enemy(createEnemyName(level), health, health, level, damage, crit, stamina, speed, block, dropAmm);
+            Enemy enemy = new Enemy(createEnemyName(level), health, health, level, damage, crit, resource, speed, block, dropAmm, false);
 
 
             //return our enemy object
