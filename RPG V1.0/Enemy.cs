@@ -12,7 +12,7 @@ namespace RPG_V1._0
            : base(_name, _health, _level, _attack, _stamina, _speed, _block) { }
 
         //properties
-        public int gold { get;  set; }
+        
 
     }
 

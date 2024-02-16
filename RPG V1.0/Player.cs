@@ -8,8 +8,12 @@ namespace RPG_V1._0
 {
     internal abstract class Player : Character
     {
-        public Player(string _name, int _health, int _level, int _attack, int _stamina, int _speed, int _block)
-            : base(_name, _health, _level, _attack, _stamina, _speed, _block) { }
+        public List<Item> items;
+        public Player(string _name, int _maxHealth, int _health, int _level, int _attack, int _crit, int _resource, int _speed, int _block, int _gold, bool _isDead List<Item> _items)
+            : base(_name, _maxHealth, _health, _level, _attack, _crit, _resource, _speed, _block, _gold, _isDead) 
+        {
+            items = _items;
+        }
  
         //Methods
 
