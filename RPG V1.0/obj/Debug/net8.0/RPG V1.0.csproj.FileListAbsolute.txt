@@ -12,3 +12,4 @@ C:\Users\elire\source\repos\My stuff\RPG V1.0\RPG V1.0\obj\Debug\net8.0\refint\R
 C:\Users\elire\source\repos\My stuff\RPG V1.0\RPG V1.0\obj\Debug\net8.0\RPG V1.0.pdb
 C:\Users\elire\source\repos\My stuff\RPG V1.0\RPG V1.0\obj\Debug\net8.0\RPG V1.0.genruntimeconfig.cache
 C:\Users\elire\source\repos\My stuff\RPG V1.0\RPG V1.0\obj\Debug\net8.0\ref\RPG V1.0.dll
+C:\Users\elire\source\repos\My stuff\RPG V1.0\RPG V1.0\obj\Debug\net8.0\RPG V1.0.sourcelink.json
