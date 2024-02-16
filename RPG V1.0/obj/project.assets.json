@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Dominic\\.nuget\\packages\\": {}
+    "C:\\Users\\elire\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dominic\\Desktop\\Desktop stuff\\RPG Battler\\RPGV1\\RPG V1.0\\RPG V1.0.csproj",
+      "projectUniqueName": "C:\\Users\\elire\\source\\repos\\My stuff\\RPG V1.0\\RPG V1.0\\RPG V1.0.csproj",
       "projectName": "RPG V1.0",
-      "projectPath": "C:\\Users\\Dominic\\Desktop\\Desktop stuff\\RPG Battler\\RPGV1\\RPG V1.0\\RPG V1.0.csproj",
-      "packagesPath": "C:\\Users\\Dominic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dominic\\Desktop\\Desktop stuff\\RPG Battler\\RPGV1\\RPG V1.0\\obj\\",
+      "projectPath": "C:\\Users\\elire\\source\\repos\\My stuff\\RPG V1.0\\RPG V1.0\\RPG V1.0.csproj",
+      "packagesPath": "C:\\Users\\elire\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\elire\\source\\repos\\My stuff\\RPG V1.0\\RPG V1.0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dominic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\elire\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
